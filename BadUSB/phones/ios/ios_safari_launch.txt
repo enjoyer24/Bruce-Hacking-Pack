@@ -1,0 +1,4 @@
+REM Payload: ios_safari_launch
+DELAY 500
+STRING idevicedebug run com.apple.mobilesafari
+ENTER

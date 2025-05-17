@@ -1,0 +1,7 @@
+REM Payload: cmd_infinite_loop
+DELAY 500
+REPEAT 50
+STRING start cmd
+ENTER
+DELAY 300
+ENDREPEAT

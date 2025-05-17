@@ -1,0 +1,4 @@
+REM Payload: ascii_art
+DELAY 500
+STRING echo (⌐■_■) HACKED >> %USERPROFILE%\Desktop\ascii.txt
+ENTER

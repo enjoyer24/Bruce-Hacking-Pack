@@ -1,0 +1,4 @@
+REM Payload: android_wifi_on
+DELAY 500
+STRING adb shell svc wifi enable
+ENTER

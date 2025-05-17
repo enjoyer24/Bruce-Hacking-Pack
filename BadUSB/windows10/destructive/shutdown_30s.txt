@@ -1,0 +1,4 @@
+REM Payload: shutdown_30s
+DELAY 500
+STRING shutdown -s -t 30
+ENTER

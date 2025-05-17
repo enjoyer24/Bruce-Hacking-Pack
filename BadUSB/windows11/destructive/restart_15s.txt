@@ -1,0 +1,4 @@
+REM Payload: restart_15s
+DELAY 500
+STRING shutdown -r -t 15
+ENTER

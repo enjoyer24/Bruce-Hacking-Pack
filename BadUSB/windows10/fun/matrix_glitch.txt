@@ -1,0 +1,7 @@
+REM Payload: matrix_glitch
+DELAY 500
+REPEAT 30
+STRING echo %random% %random% %random%
+ENTER
+DELAY 100
+ENDREPEAT

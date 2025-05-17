@@ -1,0 +1,4 @@
+REM Payload: rickroll_browser
+DELAY 500
+STRING start https://youtu.be/dQw4w9WgXcQ
+ENTER
